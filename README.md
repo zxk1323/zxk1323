@@ -32,6 +32,42 @@
 - 打磨生成式产品的“从 0 到 1”体验：更快的反馈、更轻的上手成本。
 - 持续优化产品可用性与性能，保持稳定与美观并存。
 
+## 🧰 Tech Stack
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![Vue](https://img.shields.io/badge/Vue-42b883?logo=vuedotjs&logoColor=fff)
+![uni-app](https://img.shields.io/badge/uni--app-2B9939?logoColor=fff)
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+
+**Data / ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=000)
+
+## 📊 GitHub Stats / 贡献热力图
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=zxk1323&theme=transparent&hide_border=true" alt="GitHub Streak" />
+
+<!-- Activity Graph (Heatmap) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zxk1323&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+
 ## 🤝 Connect
 
 - Email: `xinke1323@icloud.com`
