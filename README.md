@@ -16,7 +16,7 @@
 - 我热衷于把灵感快速变成线上可用的产品，偏爱极简、美观、直达价值的体验。
 - 目前专注于创意工具与生成式应用，保持快速迭代与真实用户反馈导向。
 
-如果你对我的产品有建议，或者想要合作，欢迎随时邮件联系：
+- 如果你对我的产品有建议，或者想要合作，欢迎随时邮件联系：
 
 - Email: `xinke1323@icloud.com`
 
@@ -66,8 +66,8 @@
 
 <div align="center">
 
-<!-- Activity Graph (Heatmap) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zxk1323&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<!-- GitHub Contribution Chart -->
+<img src="https://ghchart.rshah.org/EA4C89/zxk1323" alt="zxk1323's GitHub contribution chart" />
 
 </div>
 
