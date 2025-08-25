@@ -54,6 +54,7 @@
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=fff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff)
 
 **Database**
@@ -61,6 +62,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=000)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff)
 
 ## 📊 GitHub Stats / 贡献热力图
 
