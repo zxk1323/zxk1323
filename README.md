@@ -66,13 +66,6 @@
 
 <div align="center">
 
-<!-- Core Stats + Streak -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zxk1323&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=zxk1323&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<!-- Top Languages -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxk1323&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-
 <!-- Activity Graph (Heatmap) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zxk1323&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
