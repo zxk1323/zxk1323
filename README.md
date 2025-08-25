@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm zxk1323
 
-一名年轻的独立 Web 应用开发者（a young indie web app developer）
+一名年轻的独立 Web 应用开发者
 
 [Email](mailto:xinke1323@icloud.com) · [SongGenerator.art](https://songgenerator.art/) · [FanficGenerator.com](https://fanficgenerator.com/)
 
