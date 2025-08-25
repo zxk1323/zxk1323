@@ -27,6 +27,15 @@
 - FanficGenerator.com — AI 同人创作与故事生成
   https://fanficgenerator.com/
 
+- Asphalt-Calculator.vip — 沥青/铺路工程量与成本计算器
+  http://asphalt-calculator.vip/
+
+- HollowKnightSilksongMap.com — 空洞骑士：丝之歌 交互地图
+  https://hollowknightsilksongmap.com/
+
+- AIEulogy.xyz — AI 悼词生成
+  https://aieulogy.xyz/
+
 ## 🧭 Now
 
 - 目前在尝试 vibe coding 各种 AI 应用
