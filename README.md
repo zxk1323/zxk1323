@@ -4,7 +4,7 @@
 
 一名年轻的独立 Web 应用开发者
 
-[Email](mailto:xinke1323@icloud.com) · [SongGenerator.art](https://songgenerator.art/) · [FanficGenerator.com](https://fanficgenerator.com/)
+[Email](mailto:xinke1323@icloud.com) · 
 
 </div>
 
@@ -21,21 +21,7 @@
 
 ## 🚀 Products
 
-- SongGenerator.art — AI 音乐灵感与歌曲生成
-  https://songgenerator.art/
-
-- FanficGenerator.com — AI 同人创作与故事生成
-  https://fanficgenerator.com/
-
-- Asphalt-Calculator.vip — 沥青/铺路工程量与成本计算器
-  http://asphalt-calculator.vip/
-
-- HollowKnightSilksongMap.com — 空洞骑士：丝之歌 交互地图
-  https://hollowknightsilksongmap.com/
-
-- AIEulogy.xyz — AI 悼词生成
-  https://aieulogy.xyz/
-
+删除了，害怕被人一窝端了
 ## 🧭 Now
 
 - 目前在尝试 vibe coding 各种 AI 应用
